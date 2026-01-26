@@ -1,4 +1,5 @@
 # JavaMultiplayerBoardGame
-A multiplayer board game called "Concept" made fully in java and SceneBuilder using sockets and multithreading.
-Added a functioning replay system using SAX/DOM libraries to save and read data dinamically
-Using synchronisation I sucesfully locked threads so each can do it's job in the right time during saving and reading of data and during replay.
+Designed and implemented a multiplayer board game using Java, sockets, and multithreading
+Built a replay system with XML persistence (SAX/DOM)
+Ensured thread safety using synchronization mechanisms
+Applied concurrent programming and network communication principles
